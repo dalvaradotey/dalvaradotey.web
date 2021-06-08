@@ -32,3 +32,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# lock files
+*.lock
+*-lock.json
+
+# logs
+*.log
